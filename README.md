@@ -12,9 +12,9 @@ Relax and forget about the message "the window is not defined"
 
 ### Links
 
-[View demo](https://promosis.github.io/nuxt-ssr-screen-size/)
+[View demo](https://#)
 
-[View on npm](https://www.npmjs.com/package/nuxt-ssr-screen-size)
+[View on npm](https://#)
 
 [View on GitHub](https://github.com/promosis/nuxt-ssr-screen-size)
 
@@ -22,7 +22,13 @@ Relax and forget about the message "the window is not defined"
 
 ```bash
 # npm
-npm i github:hugojerez/nuxt-ssr-screen-size
+npm i github:Ndirangug/nuxt-ssr-screen-size
+
+```
+or
+```yarn
+# npm
+yarn add github:Ndirangug/nuxt-ssr-screen-size
 
 ```
 
