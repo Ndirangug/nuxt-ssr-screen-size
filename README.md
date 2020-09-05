@@ -1,4 +1,6 @@
-# nuxt-ssr-screen-size
+# nuxt-ssr-screen-size-typescript
+
+<!---
 
 Get easy and reactive access to the width and height of your screen.
 
@@ -112,3 +114,5 @@ Go ahead and fork the project! Submit an issue if needed. Have fun!
 [MIT](http://opensource.org/licenses/MIT)
 
 Packaged with a mixture of [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) and [vue-sfc-rollup](https://github.com/team-innovation/vue-sfc-rollup).
+
+-->
